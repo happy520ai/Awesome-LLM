@@ -551,6 +551,8 @@
 
 </details>
 
+- [Unified AI System](https://github.com/happy520ai/unified-ai-system) - A self-hosted AI gateway with virtual keys and periodic token budgets, exact + semantic response cache (byte-identical SSE replay), reverse MCP governance (any OpenAPI 3 spec becomes governed MCP tools), and chat-native Prometheus/Langfuse observability. Fake-provider-first: every feature works with zero credentials.
+
 ## LLM Tutorials and Courses
 - [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
 - [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
